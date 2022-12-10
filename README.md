@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cemalbulakk
+- 👋 Hi, I’m Cemal Salih Bulak
 - 👀 I’m interested in .Net and some beckend and frontend technologies.
 - 📫 You can reach me at csbulak@gmail.com.
 
